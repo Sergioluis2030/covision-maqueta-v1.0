@@ -16,7 +16,3 @@ npm run dev
 ```
 
 Abre http://localhost:5173
-
-**Usuarios de prueba:**
-- Admin: `admin` (cualquier contraseña)
-- Cliente: `cliente` (cualquier contraseña)
